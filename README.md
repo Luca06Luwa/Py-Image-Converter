@@ -4,12 +4,13 @@
 * Converts jpg to png
 * Converts jpg/png to pdf
 * Converts jpg/png to ico
+* Experimantal support for jfif to png
 
 Open the exe and select: jpg to png/png to jpg/jpg to pdf
 
 To-do
 - Add an option to remove a background in a png 🔳
-- optimize code ✔
+- optimize code ✔✔
 - new GUI ✔
 - link website to button ✔
 - turn jpg/png to ico ✔
